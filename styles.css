@@ -1,0 +1,69 @@
+#header{background-color: #333333;}
+
+.container-fluid {padding: 3% 7% 3%;}
+/*Navigation  Bar*/
+.navbar {padding-bottom: 1rem;}
+.navbar-brand {color: black;
+               margin-left: 20px;
+               font-family: 'Ubuntu';
+               font-size: 1.8rem;
+               font-weight: bold;}
+.nav-link {font-size: 1.2rem;
+           margin-right: 10px;
+           font-family: 'Montserrat';
+           font-weight: 300;}
+h1{color: white;
+   padding-top: 30px;
+   text-align: center;}
+
+h3{color: white;
+   text-align: center;
+   font-family: "Ubuntu";}
+
+#Updates{background-color:#222222;
+         text-align: center;}
+
+.carousel-item{padding: 5% 23%;}
+.testimonial-image1{margin: 20px;
+                   width: 10%;
+                   border-radius: 100%;}
+.testimonial-image2{margin:10px;
+                    border-radius: 100px;
+                    width: 115px;}
+
+#Press {text-align: center;
+        padding-bottom: 3%;
+        background-color: #9caeea;}
+.press-logo{margin: 40px 20px 10px;}
+
+#Pricing {padding: 50px;
+          text-align: center;}
+.label-heading{color: black;
+               padding: 30px;}
+
+h2{font-family: "Montserrat";
+   font-weight: 700;}
+
+.pricing-column{padding: 3% 2%;}
+.Pricing-h3{text-align: center;
+            font-family: "Montserrat";
+            font-weight: 400;
+            margin-bottom: 20px;
+            margin-top: 30px;
+            color: black;}
+
+#footer {padding: 7% 15%;
+         text-align: center;
+         background-color: Black;}
+
+.social-icon {margin: 20px 10px;
+              color: #fff;}
+
+.footer-p{color: #fff;}
+
+.contact{color: Black;
+         text-align: left;}
+
+#styles{
+  background-color: E1EEDD;
+}
